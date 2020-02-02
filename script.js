@@ -41,7 +41,7 @@ function verificando () {
                 img.setAttribute('src', 'foto-adulto-f.png')
             }else {
                 //idosa
-                img.setAttribute('foto-idoso-f.png')
+                img.setAttribute('src' , 'foto-idoso-f.png')
             } 
         }
         
